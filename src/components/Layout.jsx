@@ -1,3 +1,6 @@
+import NavBar from './NavBar';
+import Footer from './Footer';
+
 const pages = [
   { name: 'Home', key: 'home' },
   { name: 'Projects', key: 'projects' },
