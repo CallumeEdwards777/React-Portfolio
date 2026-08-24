@@ -10,10 +10,10 @@ const NavBar = () => {
 
 const Nav = styled.nav`
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
   align-items: center;
   padding: 1rem;
-  background-color: #4a3728;
+  background-color: #8b6f47;
   color: black;
 `;
 

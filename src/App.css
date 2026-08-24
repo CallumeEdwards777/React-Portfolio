@@ -53,3 +53,18 @@ body {
 a {
   color: #a0522d;
 }
+
+.highlights {
+    display: flex;
+  flex-wrap: wrap;
+  gap: 15px;
+  margin-top: 15px;
+}
+
+img {
+  width: 400px;
+  height: 300px;
+  object-fit: cover;
+  border-radius: 8px;
+  border: 1px solid #d8c3a5;
+}
