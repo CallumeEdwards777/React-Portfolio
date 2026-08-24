@@ -13,8 +13,8 @@ const Nav = styled.nav`
   justify-content: space-between;
   align-items: center;
   padding: 1rem;
-  background-color: #333;
-  color: white;
+  background-color: #4a3728;
+  color: black;
 `;
 
 export default NavBar;

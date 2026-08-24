@@ -1,11 +1,11 @@
 const styles = {
     footer: {
-        backgroundColor: '#f8f9fa',
+        backgroundColor: '#f5e9dc',
         padding: '1rem',
         textAlign: 'center',
     },
     link: {
-        color: '#007bff',
+        color: '#a0522d',
         textDecoration: 'none',
     },
 }
@@ -13,10 +13,7 @@ const styles = {
 const Footer = () => {
     return (
         <footer style={styles.footer}>
-            <p>&copy; 2024 Callum's Portfolio</p>
-            <a href="https://github.com/callumeedwards777" style={styles.link}>
-                GitHub
-            </a>
+            <p>&copy; 2026 Callum's Portfolio</p>
         </footer>
     );
 };

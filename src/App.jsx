@@ -2,7 +2,7 @@ import { useState } from 'react';
 import './App.css';
 import Layout from './components/Layout';
 import HomePage from './pages/HomePage';
-import ProjectsPage from './pages/ProjectsPage';
+import ProjectsPage from './pages/ProjectPage';
 import AboutPage from './pages/AboutPage';
 
 function App() {
